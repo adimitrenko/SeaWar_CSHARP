@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\SeaWar\SeaWar\bin\Debug\net8.0-windows\SeaWar.exe
+C:\Users\andre\source\repos\SeaWar\SeaWar\bin\Debug\net8.0-windows\SeaWar.deps.json
+C:\Users\andre\source\repos\SeaWar\SeaWar\bin\Debug\net8.0-windows\SeaWar.runtimeconfig.json
+C:\Users\andre\source\repos\SeaWar\SeaWar\bin\Debug\net8.0-windows\SeaWar.dll
+C:\Users\andre\source\repos\SeaWar\SeaWar\bin\Debug\net8.0-windows\SeaWar.pdb
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.Form1.resources
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.AssemblyInfo.cs
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.dll
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\refint\SeaWar.dll
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.pdb
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\SeaWar.genruntimeconfig.cache
+C:\Users\andre\source\repos\SeaWar\SeaWar\obj\Debug\net8.0-windows\ref\SeaWar.dll
